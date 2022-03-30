@@ -1,0 +1,10 @@
+a {
+    display: block;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #0006cc;
+    width: 200px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+}
